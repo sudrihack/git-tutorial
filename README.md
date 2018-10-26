@@ -16,14 +16,24 @@ un fichier déjà existant :
     git add <fichier1> <fichier2>
 ```
 
-pour valider les modifications :
+pour valider les modifications localement :
 ```
     git commit -m "message relatif à la modification"
 ```
 
 pour réaliser l'indéxation et la validation en une seule phase:
 ```
-git commit -a -m "message relatif à la modification"
+    git commit -a -m "message relatif à la modification"
+```
+
+pour vérifier le status des fichiers de la copie locale :
+```
+    git status
+```
+
+pour récupérer la liste des commits de la version locale :
+```
+    git log
 ```
 
 ## glossaire :
