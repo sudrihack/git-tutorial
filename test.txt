@@ -1,2 +1,7 @@
 aa
+<<<<<<< HEAD
 essayons de modifier ce fichier
+=======
+
+je suis la modification de clément
+>>>>>>> 3b5046ae52634042159e5ecc4c663d6e13823c27
