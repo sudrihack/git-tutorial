@@ -36,6 +36,14 @@ pour récupérer la liste des commits de la version locale :
     git log
 ```
 
+pour télécharger des commits depuis le **repo** distant GitHub vers la branche locale
+```
+    git pull origin master
+```
+pour envoyer des commits depuis la branche locale vers le **repo** distant GitHub
+```
+    git push origin master
+```
 ## glossaire :
 
 * repository (ou repo) : projet versionner par git se trouvant sur un 
